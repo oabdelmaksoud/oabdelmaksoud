@@ -7,16 +7,7 @@
 
 📍 **United States** | 🤖 **Multi-Agent Systems Builder** | ⚡ **Full-Stack Engineer**
 
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/-GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT" />
-<img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/-GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT" /> <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
 
 > Building autonomous AI systems where agents coordinate, reason, and ship — 16 agents, 10 providers, 40+ models, all on a single $48/mo server.
 
