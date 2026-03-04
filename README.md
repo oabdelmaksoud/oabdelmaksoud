@@ -104,7 +104,7 @@ All file-based orchestration. No single point of failure. Agents route tasks, ru
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Omar_Abdelmaksoud-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-abdelmaksoud/)
-[![X](https://img.shields.io/badge/-@oabdelmaksoud-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oabdelmaksoud)
+[![X](https://img.shields.io/badge/-@o__abdelmaksoud-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/o_abdelmaksoud)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omar.abdelmaksoud@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oabdelmaksoud)
 ![Profile Views](https://komarev.com/ghpvc/?username=oabdelmaksoud&color=58A6FF&style=flat-square&label=Profile+Views)
