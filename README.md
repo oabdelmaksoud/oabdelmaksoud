@@ -44,9 +44,9 @@
 </picture>
 </td><td valign="top">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </picture>
 </td></tr></table>
 </div>
