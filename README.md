@@ -85,18 +85,6 @@ All file-based orchestration. No single point of failure. Agents route tasks, ru
 </picture>
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=oabdelmaksoud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=oabdelmaksoud&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  <img src="https://github-trophies.vercel.app/?username=oabdelmaksoud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</picture>
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
