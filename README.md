@@ -29,10 +29,9 @@
 
 ## Current Projects
 
-- 🦞 **[AGI Farm](https://github.com/oabdelmaksoud/AGI-Farm)** - Autonomous multi-agent AI framework — orchestrate teams of AI agents with file-based coordination and zero-downtime failover
-- 🔌 **[AGI Farm Plugin](https://github.com/oabdelmaksoud/AGI-FARM-PLUGIN)** - OpenClaw plugin to bootstrap complete AI agent teams with auto-dispatcher, dashboard, and infrastructure
-- 🧰 **[OpenClaw Skills](https://github.com/oabdelmaksoud/openclaw-skills)** - Plugin ecosystem for multi-agent workflows: CrewAI, AutoGen, HuggingFace, and custom dev pipelines
-- 📈 **Autonomous Trading** - Multi-agent paper trading system with real-time options data, FinBERT sentiment analysis, and broker execution (private)
+- 🔌 **[AGI Farm Plugin](https://github.com/oabdelmaksoud/AGI-FARM-PLUGIN)** - Multi-agent AI team builder for OpenClaw — bootstrap complete teams with auto-dispatcher, dashboard, and infrastructure
+- 🦅 **[Pro-Trader SKILL](https://github.com/oabdelmaksoud/Pro-Trader-SKILL)** - Autonomous multi-agent paper trading system — 5 LLM scans/day, real-time CBOE options, 24/7 Discord alerts, Alpaca execution
+- 🧰 **[OpenClaw Skills Compilations](https://github.com/oabdelmaksoud/Openclaw-skills-Compilations)** - Custom OpenClaw skills — multi-agent workflows, CrewAI, AutoGen, HuggingFace, dev workflows
 
 ## The System
 
