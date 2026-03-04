@@ -33,24 +33,6 @@
 - 🦅 **[Pro-Trader SKILL](https://github.com/oabdelmaksoud/Pro-Trader-SKILL)** - Autonomous multi-agent paper trading system — 5 LLM scans/day, real-time CBOE options, 24/7 Discord alerts, Alpaca execution
 - 🧰 **[OpenClaw Skills Compilations](https://github.com/oabdelmaksoud/Openclaw-skills-Compilations)** - Custom OpenClaw skills — multi-agent workflows, CrewAI, AutoGen, HuggingFace, dev workflows
 
-## The System
-
-I run a 16-agent autonomous system where each agent has a specialized role — debugging, architecture, R&D, security, testing, DevOps — with fallback chains across 10 AI providers for zero-downtime resilience.
-
-```
-🧠 Cooper (Orchestrator) ──→ routes tasks to specialized agents
-🔍 Pixel  (Debugger)     ──→ root cause analysis
-🛡️ Vault  (Security)     ──→ threat analysis, hardening
-🏗️ Sage   (Architect)    ──→ design, code review
-🔬 Nova   (R&D Lead)     ──→ frontier research, bi-weekly sprints
-⚒️ Forge  (Builder)      ──→ implementation, tool building
-🧪 Vex    (Tester)       ──→ adversarial testing, QA
-🚀 Axon   (DevOps)       ──→ CI/CD, infrastructure
-   + 8 more specialized agents
-```
-
-All file-based orchestration. No single point of failure. Agents route tasks, run quality gates, and self-correct. 23 automated processes, 46 cron jobs.
-
 ## What I Work With
 
 - **AI/Agents** — Claude, GPT, Gemini, DeepSeek, LangChain, CrewAI, AutoGen, HuggingFace
