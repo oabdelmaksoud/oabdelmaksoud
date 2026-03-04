@@ -86,6 +86,21 @@
 
 </details>
 
+
+## 📦 Public Repositories
+
+Check out some of my open-source projects:
+
+| Repository | Description | Language |
+|------------|-------------|----------|
+| [AGI-FARM-PLUGIN](https://github.com/oabdelmaksoud/AGI-FARM-PLUGIN) | Multi-agent AI team builder for OpenClaw — bootstrap complete teams with auto-dispatcher, dashboard, and infrastructure | JavaScript |
+| [Pro-Trader-SKILL](https://github.com/oabdelmaksoud/Pro-Trader-SKILL) | Autonomous multi-agent paper trading system — 5 LLM scans/day, real-time CBOE options, 24/7 Discord alerts, Alpaca execution | Python |
+| [TauricResearch-Skill](https://github.com/oabdelmaksoud/TauricResearch-Skill) | Multi-Agents LLM Financial Trading Framework (forked) | Python |
+| [Openclaw-skills-Compilations](https://github.com/oabdelmaksoud/Openclaw-skills-Compilations) | Custom OpenClaw skills — multi-agent workflows, CrewAI, AutoGen, HuggingFace integration | Python |
+| [ORB](https://github.com/oabdelmaksoud/ORB) | Orbital Reconnaissance Bot — AI-driven reconnaissance and analysis | JavaScript |
+| [ORBITAL-Clean-28](https://github.com/oabdelmaksoud/ORBITAL-Clean-28) | Clean version of ORBITAL project | JavaScript |
+| [open-claw-history](https://github.com/oabdelmaksoud/open-claw-history) | Historical archive and version tracking for OpenClaw | - |
+| [orbit-integration-test](https://github.com/oabdelmaksoud/orbit-integration-test) | Integration tests for ORBIT framework | JavaScript |
 <div align="center">
 
 *"If it can be automated, it should be."*
