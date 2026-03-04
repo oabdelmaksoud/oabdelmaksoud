@@ -63,14 +63,26 @@ All file-based orchestration. No single point of failure. Agents route tasks, ru
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=github-dark-blue&hide_border=true&background=0D1117" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+</picture>
 
 </div>
 
@@ -78,7 +90,11 @@ All file-based orchestration. No single point of failure. Agents route tasks, ru
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=oabdelmaksoud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=oabdelmaksoud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=oabdelmaksoud&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=oabdelmaksoud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</picture>
 
 </div>
 
