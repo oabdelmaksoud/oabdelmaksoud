@@ -36,27 +36,16 @@
 ## GitHub Stats
 
 <div align="center">
-<a href="#"><picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-</picture></a>&nbsp;&nbsp;<a href="#"><picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=default&hide_border=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</picture></a>
+<a href="#"><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" alt="GitHub Stats" /><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117#gh-dark-mode-only" alt="GitHub Stats" /></a>&nbsp;&nbsp;<a href="#"><img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Streak" /><img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E#gh-dark-mode-only" alt="GitHub Streak" /></a>
 <br><br>
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=default&hide_border=true&langs_count=8" />
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</picture>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=default&hide_border=true&langs_count=8#gh-light-mode-only" alt="Top Languages" /><img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8#gh-dark-mode-only" alt="Top Languages" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oabdelmaksoud/oabdelmaksoud/output/github-snake.svg" />
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/oabdelmaksoud/oabdelmaksoud/output/github-snake-dark.svg" />
-</picture>
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/oabdelmaksoud/oabdelmaksoud/output/github-snake.svg#gh-light-mode-only" />
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/oabdelmaksoud/oabdelmaksoud/output/github-snake-dark.svg#gh-dark-mode-only" />
 </div>
 
 ## 📊 Recent Activity
