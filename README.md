@@ -1,4 +1,9 @@
-# Hi, I'm Omar 👋
+<div align="center">
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=70&lines=Hey+there%2C+I'm+Omar+%F0%9F%91%8B;Multi-Agent+Systems+Builder;Full-Stack+Engineer;Automating+everything+I+touch" alt="Typing SVG" /></a>
+
+</div>
 
 📍 **United States** | 🤖 **Multi-Agent Systems Builder** | ⚡ **Full-Stack Engineer**
 
@@ -27,15 +32,15 @@
 I run a 16-agent autonomous system where each agent has a specialized role — debugging, architecture, R&D, security, testing, DevOps — with fallback chains across 10 AI providers for zero-downtime resilience.
 
 ```
-Cooper (Orchestrator) → routes tasks to specialized agents
-Pixel (Debugger) → root cause analysis
-Vault (Security) → threat analysis, hardening
-Sage (Architect) → design, code review
-Nova (R&D Lead) → frontier research, bi-weekly sprints
-Forge (Builder) → implementation, tool building
-Vex (Tester) → adversarial testing, QA
-Axon (DevOps) → CI/CD, infrastructure
-+ 8 more specialized agents
+🧠 Cooper (Orchestrator) ──→ routes tasks to specialized agents
+🔍 Pixel  (Debugger)     ──→ root cause analysis
+🛡️ Vault  (Security)     ──→ threat analysis, hardening
+🏗️ Sage   (Architect)    ──→ design, code review
+🔬 Nova   (R&D Lead)     ──→ frontier research, bi-weekly sprints
+⚒️ Forge  (Builder)      ──→ implementation, tool building
+🧪 Vex    (Tester)       ──→ adversarial testing, QA
+🚀 Axon   (DevOps)       ──→ CI/CD, infrastructure
+   + 8 more specialized agents
 ```
 
 All file-based orchestration. No single point of failure. Agents route tasks, run quality gates, and self-correct. 23 automated processes, 46 cron jobs.
@@ -47,13 +52,39 @@ All file-based orchestration. No single point of failure. Agents route tasks, ru
 - **Data** — LanceDB, PostgreSQL, Redis, JSONL pipelines
 - **Trading** — Alpaca API, CBOE options flow, FinBERT sentiment
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=oabdelmaksoud&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=github-dark-blue&hide_border=true&background=0D1117" />
+
+</div>
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Omar_Abdelmaksoud-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-abdelmaksoud/)
 [![X](https://img.shields.io/badge/-@oabdelmaksoud-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/oabdelmaksoud)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omar.abdelmaksoud@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oabdelmaksoud)
+![Profile Views](https://komarev.com/ghpvc/?username=oabdelmaksoud&color=58A6FF&style=flat-square&label=Profile+Views)
 
 ---
 
-> "If it can be automated, it should be."
+<details>
+<summary>🤫 Fun Facts</summary>
+<br>
+
+- 🤖 I talk to 16 AI agents daily — they talk to each other even more
+- 💸 My entire AI infrastructure costs less than a Netflix family plan
+- 📊 46 cron jobs run while I sleep — I wake up to progress reports
+- 🧪 My agents have a quality gate — they reject each other's bad work
+- ☕ Fueled by coffee and the dream of fully autonomous software teams
+
+</details>
+
+<div align="center">
+
+*"If it can be automated, it should be."*
+
+</div>
