@@ -20,6 +20,13 @@
 
 > Building autonomous AI systems where agents coordinate, reason, and ship — 16 agents, 10 providers, 40+ models, all on a single $48/mo server.
 
+## 🔭 Currently Working On
+
+- 🚀 Scaling the AGI Farm to handle autonomous sprint planning and execution
+- 🧠 Building self-improving agent pipelines with quality gates and feedback loops
+- 📊 Real-time options trading system with multi-agent consensus decisions
+- 🔧 Expanding the OpenClaw plugin ecosystem for community agent workflows
+
 ## Current Projects
 
 - 🦞 **[AGI Farm](https://github.com/oabdelmaksoud/AGI-Farm)** - Autonomous multi-agent AI framework — orchestrate teams of AI agents with file-based coordination and zero-downtime failover
@@ -60,6 +67,37 @@ All file-based orchestration. No single point of failure. Agents route tasks, ru
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=oabdelmaksoud&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 </div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oabdelmaksoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=oabdelmaksoud&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oabdelmaksoud/oabdelmaksoud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oabdelmaksoud/oabdelmaksoud/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/oabdelmaksoud/oabdelmaksoud/output/github-snake.svg" />
+</picture>
+
+</div>
+
+## 📊 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## Connect
 
